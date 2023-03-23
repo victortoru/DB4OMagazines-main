@@ -1,0 +1,4 @@
+1,Sarampión,1757,Paramyxoviridae,true
+2,Tos ferina,1578,Bordetella pertussis,false
+3,Rubeola,1900,Matonaviridae,false
+4,COVID-19,2019,SARS-Cov2,true

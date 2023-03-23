@@ -1,0 +1,6 @@
+1,Alfonso Pérez,1960-02-15
+2,María Benito,1954-10-23
+3,José Luis Manzano,1977-05-17
+4,Isabel López,1980-04-01
+5,Daniel Ruiz,1999-12-21
+6,Pablo Corbalán,2001-11-13
